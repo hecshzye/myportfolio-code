@@ -2,6 +2,8 @@
 
 # Deployed repository: https://github.com/hecshzye/portfolio
 
+<img width="1413" alt="Screenshot 2022-04-05 at 12 51 44" src="https://user-images.githubusercontent.com/87764103/161700255-e31330e4-2d46-48cd-9a56-40f227254d1d.png">
+
 
 # Getting Started with Create React App
 
