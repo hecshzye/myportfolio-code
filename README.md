@@ -1,3 +1,8 @@
+# Website is Live at: https://hecshzye.github.io/portfolio/
+
+# Deployed repository: https://github.com/hecshzye/portfolio
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
